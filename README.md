@@ -4,12 +4,12 @@ Customisable switch component for RN
 ### Installation
 
 ```sh
-$ npm install --save react-native-switch
+$ npm install --save @landandan/react-native-switch
 ```
 or
 
 ```sh
-yarn add react-native-switch
+yarn add @landandan/react-native-switch
 ```
 
 ### Usage
